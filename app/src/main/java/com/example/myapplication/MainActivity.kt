@@ -22,9 +22,9 @@ class MainActivity : ComponentActivity() {
                     topBar = {
                         TopAppBar(
                             title = {
-                                Text(text = "Application App")
+                                Text(text = "HackStore")
                             },
-                            backgroundColor = Color.Green,
+                            backgroundColor = Color.Blue,
                             contentColor = Color.White,
                             elevation = 12.dp
                         )
